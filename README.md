@@ -36,6 +36,5 @@ make -j8 # or any -jN, with N=$(nproc)
 
 ## Result
 
-<video src="./result/result.mp4" autoplay="true" controls="controls">
-</video>
+<img src="./result/result.gif">
 
